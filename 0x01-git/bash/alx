@@ -1,3 +1,2 @@
-echo"ALX"
-echo"ALX"
- #1/bin/bash
+#!/bin/bash
+echo "school"
