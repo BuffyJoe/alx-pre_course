@@ -1,2 +1,2 @@
 #!/bin/bash
- echp "school"
+echo "The school is open"
